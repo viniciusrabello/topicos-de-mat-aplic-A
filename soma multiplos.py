@@ -1,3 +1,10 @@
+###################################################################################
+#Soma dos Múltiplos de X e Y
+#Vinícius Rabello Rodrigues
+#DRE:119056899
+#Curso: Matemática Aplicada
+###################################################################################
+
 print('\no programa irá calcular a soma dos multiplos menores que n de x ou y\n(multiplos em comum só serão adicionados uma vez)')
 
 x = int(input('\ninsira x: '))
